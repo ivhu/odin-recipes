@@ -17,8 +17,37 @@ ul, ol {
 
 .no-italics {
     font-style: normal;
+    list-style: none;
+    margin: 0px;
+    background-color: snow;
+    padding: 10px;
 }
 
 ol {
     font-weight: bold;
+}
+
+img {
+    height: 500px;
+}
+
+.odin {
+    padding: 10px;
+    width: 500px;
+    margin: 16px auto;
+    background-color: lavenderblush;
+    text-align: center;
+}
+
+.odinrecipes {
+    background-color: snow;
+    padding: 10px;
+    margin-top: auto;
+    margin-bottom: 10px;
+}
+
+.item {
+    margin: 10px auto;
+    background-color: lavenderblush;
+    width: 30%;
 }
